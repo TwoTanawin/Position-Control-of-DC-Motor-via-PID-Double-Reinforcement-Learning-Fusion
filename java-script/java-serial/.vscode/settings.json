@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/two-asus/Downloads/rxtxcomm.jar",
+        "/home/two-asus/Downloads/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar",
+        "/home/two-asus/Downloads/jar_files/jfreechart-1.5.4.jar",
+        "/home/two-asus/Downloads/jfreechart-1.5.2/**/*.jar"
+    ]
+}
