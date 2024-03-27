@@ -61,7 +61,7 @@ void loop() {
   // int target = 250*sin(prevT/1e6);
 
   // PID constants
-  float kp = 0.4;
+  float kp = 0.1;
   float kd = 0.006;
   float ki = 0.0;
 
